@@ -3,11 +3,20 @@ entries:
   kubernetes-dashboard-proxy:
   - apiVersion: v1
     appVersion: 2.3.0
-    created: 2019-07-31T17:54:57.12056484-04:00
+    created: 2019-07-31T17:55:48.417627421-04:00
+    description: A reverse proxy with OpenID Connect for Kubernetes Dashboard
+    digest: 7a00d745285a0ea722a75ad4c4b4d2b9d8b48da7c99681d88e6dcba4f6b9a26d
+    name: kubernetes-dashboard-proxy
+    urls:
+    - https://gumdelli.github.io/helm-charts/kubernetes-dashboard-proxy-1.5.2.tgz
+    version: 1.5.2
+  - apiVersion: v1
+    appVersion: 2.3.0
+    created: 2019-07-31T17:55:48.416494038-04:00
     description: A reverse proxy with OpenID Connect for Kubernetes Dashboard
     digest: 402231869bcb3314e4d2512cd1dfad3ca17a1821888cc47371f93748d1cf16f1
     name: kubernetes-dashboard-proxy
     urls:
     - https://gumdelli.github.io/helm-charts/kubernetes-dashboard-proxy-1.5.1.tgz
     version: 1.5.1
-generated: 2019-07-31T17:54:57.119189822-04:00
+generated: 2019-07-31T17:55:48.41600069-04:00
